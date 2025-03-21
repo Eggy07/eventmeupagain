@@ -96,6 +96,9 @@
                 </a>
               </div>
           </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="rfid_output.php">RFID</a>
+          </li>
         <li class="nav-item dropdown">
             <a class="nav-link" href="dashboard.php">Dashboard</a>
           </li>

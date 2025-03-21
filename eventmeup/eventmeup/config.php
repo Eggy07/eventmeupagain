@@ -1,6 +1,6 @@
 <?php
 $host = "localhost";
-$dbname = "royale_event";
+$dbname = "royal_event";
 $username = "root";
 $password = "";
 
